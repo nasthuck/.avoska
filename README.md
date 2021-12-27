@@ -1,0 +1,2 @@
+# .avoska
+Python assistent
